@@ -1,0 +1,12 @@
+.fundogran {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url(img/cannion.png.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+}
